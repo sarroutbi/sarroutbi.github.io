@@ -1,1 +1,9 @@
-theme: jekyll-theme-hacker
+theme: minima
+
+title: Sergio Arroutbi's Blog
+author: Sergio Arroutbi
+email: sarroutb@redhat.com
+
+# Minima variables
+github_username:   sarroutb
+linkedin_username: sergio-arroutbi-9995a4b
